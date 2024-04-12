@@ -1,2 +1,2 @@
 # Python_Algorithms
-Source: Geeks for Geeks
+Some ideas from: Geeks for Geeks
